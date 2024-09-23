@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Farah Aflah. I'm currently majoring in computer science at Universitas Riau.
 <!--
 **faraflh/faraflh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
