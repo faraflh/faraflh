@@ -1,6 +1,13 @@
 ## Hi there 👋
 
 I'm Farah Aflah. I'm currently majoring in computer science at Universitas Riau.
+
+<p align="left">
+<a href="https://github.com/faraflh">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faraflh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faraflh&layout=compact&theme=algolia"/>
+</a>
+</p>
 <!--
 **faraflh/faraflh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
